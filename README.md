@@ -30,7 +30,6 @@ The dataset includes audio-based numerical features such as:
 - K-Nearest Neighbors
 - Decision Trees
 - Random Forest
-- (Possibly others like SVM, depending on the notebook)
 
 Model performance is evaluated using accuracy, confusion matrix, and cross-validation.
 
@@ -41,7 +40,7 @@ Model performance is evaluated using accuracy, confusion matrix, and cross-valid
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - Scikit-learn
-- Librosa (if audio files were used for feature extraction)
+- Librosa
 
 
 ---
